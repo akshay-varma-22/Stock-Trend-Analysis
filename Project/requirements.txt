@@ -1,0 +1,9 @@
+Flask==2.2.2
+Flask_Cors==4.0.0
+keras==2.8.0
+keras_nightly==2.5.0.dev2021032900
+numpy==1.25.2
+pandas==2.2.2
+scikit_learn==0.24.0
+tensorflow==2.8.0
+tensorflow_intel
